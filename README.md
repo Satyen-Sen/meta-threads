@@ -1,6 +1,7 @@
 # Threads - Next.js Fulltack Clone
 
-An fully responsive full stack online social media and social networking application, built using Next.js and TypeScript, inspired by Threads by Meta Platforms.
+A fully responsive full stack online social media and social networking application, built using Next.js and TypeScript, inspired by Threads by Meta Platforms.
+
 - Deployed at : https://threads-iota-five.vercel.app/
 
 *** 
